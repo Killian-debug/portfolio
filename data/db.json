@@ -1,0 +1,180 @@
+{
+    "cv": [
+        {
+            "experiences": [
+                
+                {
+                    "type": "expérience",
+                    "contrat": "freelance",
+                    "entreprise": "",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Concepteur de Solutions Tech",
+                    "debut": "2020",
+                    "fin": "Maintenant",
+                    "url" : "https://comeup.com/profil/thegenius",
+                    "description": "Je travail comme frelancer sur les réseaux et plateformes comme 5 euros, en parallèle à mes études de licence. \n Mon but est de gagner en expérience tout en aidant le maximum de personnes à donner vie à leurs projets informatiques"
+                },
+                {
+                    "type": "expérience",
+                    "contrat": "freelance",
+                    "entreprise": "HomeScript",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Développeur WordPress",
+                    "debut": "2022",
+                    "fin": "2022",
+                    "url": "https://homescriptone.com/",
+                    "description": "J’interviens en tant que freelance pour l’amélioration d’un plugin wordpress ( Ultimate Sms Notification for Woocommerce) déjà disponible sur le marché sur le site de la société."
+                },
+                {
+                    "type": "expérience",
+                    "contrat": "Lauréat",
+                    "entreprise": "MTN Bénin",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Membre du FreshLab",
+                    "debut": "2021",
+                    "fin": "2022",
+                    "url": "https://facebook.com/mtnbeninofficiel",
+                    "description": "En 2021 j'ai eu la chance, de même que 14 autres jeunes d'être sélectionnés pour intégrer le 1er incubateur de MTN Bénin. Il a pour but de rassembler des jeunes passionnés, afin de travailler sur des projets innovants avec leur appuis."
+                },
+                {
+                    "type": "expérience",
+                    "contrat": "CDI",
+                    "entreprise": "ZOE MARKET",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "CTO ZOE-MARKET",
+                    "debut": "2019",
+                    "fin": "2020",
+                    "url": "https://web.facebook.com/zoemarket",
+                    "description": "ZOE-MARKET est une marketplace cofondée  avec un de mes paires. Elle permettait à divers commerçants de créer une boutique en ligne à partir de laquelle ils pouvaient cataloguer et vendre leurs produits depuis n'importe où. \n            Le projet n'est plus d'actualité, mais nous estimons avoir donné un élan à ce domaine, car après nous, plusieurs solutions du même genre ont vu le jour. C'est par exemple le cas au niveau gouvernemental avec béninmarketplace.bj"
+                },
+                {
+                    "type": "expérience",
+                    "contrat": "Stage",
+                    "entreprise": "ABC Corporation",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Stage ABC Corporation",
+                    "debut": "2019",
+                    "fin": "2020",
+                    "url": "https://abcnexus.com/",
+                    "description": "En 2 ème année d'université, j'ai effectué un stage à ABC Corporation, une entreprise d'accès à internet. À ce stage, j'ai eu à réaliser un site web pour la SONAEC, une entreprise concessionnaire automobile."
+                }                
+            ],
+            "formations": [
+                {
+                    "contrat": "Baccalauréat",
+                    "entreprise": "CS FELIX HOUPHOUET BOIGNY",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Collégien",
+                    "debut": "2017",
+                    "fin": "2018",
+                    "description": "Année de collège au collège Félix Houphouet Boigny où j'ai obtenue mon baccalauréat."
+                },
+                {
+                    "contrat": "Génie Civil",
+                    "entreprise": "VERECHAGUINE A.K",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "1ère année de Génie Civil",
+                    "debut": "2018",
+                    "fin": "2019",
+                    "url": "https://esgcvak.com/",
+                    "description": "Avant de découvrir ma passion pour l'informatique, j'ai validé une première année de génie civil à Verechaguine. J'ai en effet abandonné et me suis reconverti dès que j'ai reçu mon premier ordinateur."
+                },
+                {
+                    "contrat": "freelance",
+                    "entreprise": "",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Autodidacte",
+                    "debut": "2018",
+                    "fin": "2021",
+                    "url" : "https://openclassrooms.com/",
+                    "description": "Depuis 2018 où j'ai commencé en autodidacte et maintenant que je suis un cursus universitaire je ne cesse de me former en ligne sur divers compétences du web comme le community management, le graphisme, la création de chatbot."
+                },
+                {
+                    "contrat": "etudiant",
+                    "entreprise": "UATM GASA FORMATION",
+                    "lieu": "Cotonou - Bénin",
+                    "poste": "Étudiant",
+                    "debut": "2019",
+                    "fin": "2022",
+                    "url": "https://uatm-gasa.com/",
+                    "description": "Depuis 2019, je suis un cursus universitaire en informatique, plus précisément en Système Informatique et Logiciel ( SIL ). \n Par ailleurs, je ne cesse de me former en autodidacte sur les meilleures plateformes d'e-learning et à travers différents projets."
+                }
+            ],
+            "competences": [
+                {
+                   
+                    "domaine": "general",
+                    "liste": [
+                        "Leadership",
+                        "Trello",
+                        "Gestion du temps / des tâches",
+                        "Humour"
+                    ]
+                },
+                {
+                    
+                    "domaine": "technique",
+                    "liste": [
+                        "HTML/CSS",
+                        "JavaScript/Jquery",
+                        "ReactJs/NodeJs",
+                        "PHP/MySQL",
+                        "WordPress/Wix",
+                        "Création de Chatbot"
+                    ]
+                },
+                {
+                    
+                    "domaine": "linguistique",
+                    "liste": [
+                        "Kabiè ( langue natal )",
+                        "Français",
+                        "Anglais"
+                    ]
+                }
+            ]
+        }
+    ],
+    "projets": [
+        {
+            "nom": "La Boutique Secrète",
+            "role": "Concepteur",
+            "logo": "",
+            "entreprise": "TheOffice",
+            "url": "",
+            "description": "La Boutique Secrète est un projet en collaboration avec TheOffice et finaliste du SELFCARE. Il s'agit d'un chatbot Facebook/WhatsApp permettant de se procurer des contraceptifs en toute discrétion et aussi d'être sensibilisé sur le sujet de la santé sexuelle."
+        },
+        {
+            "nom": "ZGenius Club",
+            "role": "Lead",
+            "logo": "",
+            "entreprise": "ZGenius Club",
+            "url": "",
+            "description": "Le ZGeniusClub est une communauté de plus de 100 travailleurs indépendants, dans le domaine du numérique. La communauté est composé de jeunes hommes et femmes passionnés de digital s'entraidant. Le but, donner plus facilement accès aux jeunes à l'expérience grâce à de réels projets."
+        },
+        {
+            "nom": "KYWA",
+            "role": "Développeur",
+            "logo": "",
+            "entreprise": "KYWA",
+            "url": "",
+            "description": "KYWA est une application réalisé par le jeune entrepreneur Kelvin Adantchede. Elle permet le réseautage, le partage d'opportunités et d'expérience tout simplement en sauvegardant les compétences de nos contacts. Sur ce projet, il m'a été confié la réalisation du site de landing page."
+        },
+        {
+            "nom": "KelvinAgentK",
+            "role": "Développeur",
+            "logo": "",
+            "entreprise": "ZGenius Club",
+            "url": "http://kelvinagentk.com/",
+            "description": "Promoteur de KYWA et organisateur du #SamediPizza, Kelvin Adantechede est un passionné du numérique qui rêve d'aller dans l'espace."
+        },
+        {
+            "nom": "L&C EMPIRE",
+            "role": "Developpeur / Community Manager",
+            "logo": "",
+            "entreprise": "ZGenius Club",
+            "url": "https://lc-empire.com/",
+            "description": "LC EMPIRE est l’un des géants de l’esthétique au Bénin, dirigé par des mains de velours. Mme Laura CEO de LC EMPIRE a fait de la beauté son objectif N°1 pour elle mais aussi pour toute les femmes et les hommes. À LC EMPIRE la perfection est la seul manière d’atteindre un résultat de qualité."
+        }
+    ]
+}
